@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MoneyFly</string>
+    <string name="profile_button">Profile</string>
+    <string name="my_expenses_button">My expenses</string>
+    <string name="friends_button">Friends</string>
+
+    <string name="add_expense_button">Add expense</string>
+    <string name="add_friend_button">Add friend</string>
+    <string name="create_group_button">Create group</string>
+    <string name="my_groups_button">My groups</string>
+    <string name="create_button">Create</string>
+    <string name="registration_button">Registration</string>
+    <string name="login_button">Login</string>
+    <string name="language_button">Switch Language</string>
+
+    <string name="hint_add_friend_friendsID">Friends ID</string>
+    <string name="hint_group_name">Enter group name</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_add_expense_expense_description">Expense description</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_my_debts">My debts</string>
+    <string name="hint_add_expense_amount">Amount</string>
+    <string name="hint_add_expense_group">Group</string>
+
+    <string name="text_no_debts">No debts</string>
+    <string name="text_user_debts_username">User: %1$s</string>
+    <string name="text_user_debts_debt_amount">Debt amount: %1$s</string>
+    <string name="text_add_expense_select_group">Select group</string>
+    <string name="text_add_add_group_add_friends_to_group">Add friends to group</string>
+
+
+
+    <string name="error_fill_all_fields">Fill all fields</string>
+    <string name="error_failed_registration">Failed registration</string>
+    <string name="error_add_friend_enter_friendsID">Type in friends ID</string>
+
+</resources>
